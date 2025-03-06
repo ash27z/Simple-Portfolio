@@ -1,7 +1,6 @@
 # Simple Portfolio
 
-A minimalist and modern portfolio website template. This portfolio is fully responsive and easy to customize. Feel free to use the source code for your own projects! 🚀  
-
+A minimalist and modern portfolio website template. This portfolio is fully responsive and easy to customize. Feel free to use the source code for your own projects! 
 ## Features  
 - Responsive design (mobile-friendly)  
 - GitHub API integration to display repos
