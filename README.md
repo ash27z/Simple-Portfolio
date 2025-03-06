@@ -1,14 +1,14 @@
 # Simple Portfolio
 ![How it looks like](image.png)
 
-A minimalist and modern portfolio website template. This portfolio is fully responsive and easy to customize. Feel free to use the source code for your own projects! 
+A minimalist and modern portfolio website src. This portfolio is fully responsive and easy to modify. Feel free to use the source for your own projects! 
 ## Features  
 - Responsive design (mobile-friendly)  
-- GitHub API integration to display repos
-- Simple and easy-to-edit HTML, CSS, and JavaScript  
+- GitHub API integration to display your repos
+- Simple and easy to edit
 
 ## Portfolio
-You can check out where I used the src of the portfolio: [(https://ash27z-production.up.railway.app/)]  
+You can check out where I used the src of the portfolio: https://ash27z-production.up.railway.app/ 
 
 ## Installation & Usage  
 1. Clone the repository:  
