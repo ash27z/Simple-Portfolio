@@ -8,7 +8,7 @@ A minimalist and modern portfolio website template. This portfolio is fully resp
 - Simple and easy-to-edit HTML, CSS, and JavaScript  
 
 ## Portfolio
-You can check out where I used the src of the portfolio: [TBD]  
+You can check out where I used the src of the portfolio: [(https://ash27z-production.up.railway.app/)]  
 
 ## Installation & Usage  
 1. Clone the repository:  
