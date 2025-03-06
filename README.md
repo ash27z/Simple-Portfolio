@@ -1,4 +1,5 @@
 # Simple Portfolio
+![How it looks like](image.png)
 
 A minimalist and modern portfolio website template. This portfolio is fully responsive and easy to customize. Feel free to use the source code for your own projects! 
 ## Features  
